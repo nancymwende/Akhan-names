@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/ghananian.jpg");
+    background-image: url("images/ghana.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -17,4 +17,10 @@ td,th{
 td{
     padding-right: 50px;
 
+}
+.name{
+    text-align: center;
+    /* margin-top: 20px; */
+    padding-bottom: 10%;
+    margin-right: 8%;
 }
