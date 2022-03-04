@@ -1,13 +1,13 @@
 /* body{
-    background-image: url("images/ghana.webp");
+    background-image: url("images/akan.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; */
-/* } */
+    background-position: center; }*/
 
-/* body{
-    background-color: #B74803;
-} */
+
+body{
+    background-color:#03071e;
+}
 
 table{
     font-family:Arial, Helvetica, sans-serif;
