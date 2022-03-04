@@ -1,9 +1,14 @@
-body{
+/* body{
     background-image: url("images/ghana.webp");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-}
+    background-position: center; */
+/* } */
+
+/* body{
+    background-color: #B74803;
+} */
+
 table{
     font-family:Arial, Helvetica, sans-serif;
     border-collapse: collapse;
