@@ -34,6 +34,15 @@ None that i am aware of.<br>Incase of any,<br>Please feel free to reach out.
 <li>JAVASCRIPT</li>
 </ul>
 
+  ## BDD
+  <ul>
+  Click on  Get Your Akhan name here link
+
+<li>Enter your day of birth e.g (04)</li>
+<li>Enter your month of birth e.g (11)</li>
+<li>Enter your year of birth e.g (1989)</li>
+<p>Click on Submit</p>
+
 ## Support and contact details
 For your support,kindly reach out via email nancy.mwende@student.moringaschool.com or nancymwende860@gmail.com or contact us through **0746451157**.
 
@@ -41,7 +50,7 @@ For your support,kindly reach out via email nancy.mwende@student.moringaschool.c
 
  #### MIT LICENCE
 
-Copyright (c) 2021 **Nancy Mwende**
+Copyright (c) 2022 **Nancy Mwende**
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
