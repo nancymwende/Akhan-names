@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
     <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/8fac7acd0e.js" crossorigin="anonymous"></script>
     <title>AKHAN NAMES</title>
 </head>
@@ -13,11 +15,11 @@
 <body>
     <h2>AKAN names</h2>
     <p>Below are the Ghananian day names derived<br>
-        from the Ghananian culture</p>
+        from the Ghananian culture.</p>
 
-        <div class="image1">
+    <div class=" image1">
         <img src="images/ghanakids.jpg" alt="">
-        </div>
+    </div>
 
     <table>
         <tr>
@@ -69,7 +71,7 @@
     <div class="name">
         <h1>Get your Akhan name here </h1>
     </div>
-    <form class="user-form">
+    <!-- <form class="user-form">
         <label>Day<br><input class="Day" type="text" name="Day" placeholder="Day"><br></label>
         <label>Month<br><input class="month" type="text" name="month" placeholder="month"><br></label>
         <label>Year<br><input class="year" type="text" name="year" placeholder="year"><br></label>
@@ -80,7 +82,25 @@
           <label>female</label><br>
         <input type="radio" id="Male" value="Male">
           <label>Male</label><br>
-    </div>
+    </div> -->
+    <div class="container">
+        <form action="#" id="akan">
+            <div class="form-group input1">
+                <input type="date" name="date" id="date" class="form-control" value="date">
+            </div>
+
+            <div class="form-group">
+                <label for="male">male</label>
+                <input type="radio" name="gender" id="male" value="male">
+            </div>
+
+            <div class="form-group">
+                <label for="female">female</label>
+                <input type="radio" name="gender" id="female" value="female">
+            </div>
+
+            <button class="btn btn-outline-info">submit</button>
+        </form>
     </div>
 
 
