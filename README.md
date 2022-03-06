@@ -2,7 +2,8 @@
 ####  6th March 2022
 #### By **Nancy Mwende**
 
-<img src="Screenshot.png ">
+#Screenshot
+<img src="images/Screenshot.png">
 
 ## Project Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender it generates their Akan Name derived from Ghanian culture.
