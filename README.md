@@ -18,7 +18,7 @@ This is a web application that takes a user's birthday and calculates the day of
 </ul>
 
 ### Live Link
-<a> https://nancymwende.github.io/akhan-names/</a>
+<a>https://nancymwende.github.io/akhan-names/</a>
 
 
 ## Known Bugs
