@@ -1,13 +1,12 @@
-/* body{
-    background-image: url("images/akan.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center; }*/
-
-
 body{
-    background-color:#6d5812;
+    background-image: url("images/unsplash.jpg");
+    /* background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; } */
+    color: wheat;
+
 }
+
 
 .image1{
     float: left;
@@ -34,4 +33,16 @@ td{
     /* margin-top: 20px; */
     padding-bottom: 10%;
     margin-right: 8%;
+}
+.btn{
+    border-radius: 2%;
+    background-color: blue;
+}
+a{
+    font-size: large;
+    color: black;
+    margin-top: 80px;
+}
+a:hover{
+    color: black;
 }
