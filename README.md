@@ -2,15 +2,17 @@
 ####  6th March 2022
 #### By **Nancy Mwende**
 
-<img src="">
+<img src="Screenshot.png ">
 
 ## Project Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender it generates their Akan Name derived from Ghanian culture.
 
 ## Setup/Installation Requirements
 <ul>
-<li>copy the url on arrow down</li>
-<li>Clone on your computer</li>
+<li>Open Terminal {Ctrl+Alt+T}</li>
+<li>git clone https://github.com/nancymwende/Akhan-names</li>
+<li>cd Akhan_Names </li>
+<li>code . for VS code to run it<l/li>
 <li>Go live or start your server</li>
 </ul>
 
