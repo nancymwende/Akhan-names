@@ -6,6 +6,11 @@ body{
     color: wheat;
 
 }
+.names{
+    text-align: center;
+    color: blue;
+
+}
 
 
 .image1{
@@ -15,16 +20,24 @@ body{
 
 }
 
-table{
-    font-family:Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
+ table{
+    color:whitesmoke;
+  border-collapse: collapse;
+  width: 50%;
+  font-weight: bolder;
 
 }
 
-td,th{
-    border: 2px solid rgba(27, 27, 27, 0.867);
-    /* padding: 5px; */
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
+/* 
+tr:nth-child(even) {
+  background-color: #dddddd;
+} */
+
 td{
     padding-right: 50px;
 
@@ -53,3 +66,8 @@ a:hover{
     margin-top: 5%;
 }
 
+.link{
+    float: right;
+    padding-top: 20%;
+    padding-right: 20%;
+}
