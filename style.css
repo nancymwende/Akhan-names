@@ -41,8 +41,13 @@ td{
 a{
     font-size: large;
     color:whitesmoke;
-    margin-top: 80px;
 }
 a:hover{
     color: rgb(20, 42, 168);
 }
+.container{
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 5%;
+}
+
